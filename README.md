@@ -50,6 +50,30 @@
 #### Plotted the maps to show the ride density per location (based on the lat and long) data provide for the month of January 2024.
 #### I  was able to create the start and end location co-ordinates but for some reason the base map does not show when I merge the two frames
 
+#### Report 1 - Rides per day - Breakdown by Bike Type
 ![image](https://github.com/bablooji/reporting/assets/65581001/204eae36-0bbd-4c7b-906b-f5ee0ff222f5)
+
+#### Report 2 - Rides count - Bike Type
+![image](https://github.com/bablooji/reporting/assets/65581001/1c357380-7266-47ce-bb96-434b9e374d88)
+
+#### Report 3 - Rides growth - Bike Type
+![image](https://github.com/bablooji/reporting/assets/65581001/f0e2db30-0ed4-40d1-88a4-0136b6734150)
+
+
+#### Report 4 - Rides count by Starting Station Name
+![image](https://github.com/bablooji/reporting/assets/65581001/762f3f64-da34-4913-b46b-ed105ff017c5)
+
+
+#### Report 5 - Rides count by Starting Station Name
+![image](https://github.com/bablooji/reporting/assets/65581001/07e02c97-cb47-4ee0-8ae4-0411e464880c)
+
+#### Report 6 - Pie Chart by membership type
+![image](https://github.com/bablooji/reporting/assets/65581001/86bd9b31-6183-435b-9f72-8b1cb292c953)
+
+
+
+
+
+
 
 
